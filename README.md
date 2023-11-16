@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Edwar Corredor</h1>
-<h3 align="center">I'm always looking for new challenges and opportunities. If you have a project that you think I would be a good fit for, please don't hesitate to reach out.</h3>
+<h3 align="center">
+
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="My GIF" width="100" height="50" loop="1">
+
+
+Hey there!
+
+I'm full-stack software engineer from Colombia. I'm a mechatronics engineer with a master's degree in industrial automation. I'm passionate about using technology to solve real-world problems.
+
+In my spare time, I enjoy hiking, biking, and spending time with my family. I'm also an avid reader and I'm always looking for new ways to learn.
+
+I'm always looking for new challenges and opportunities. If you have a project that you think I would be a good fit for, please don't hesitate to reach out.</h3>
 
 - 🌱 I’m currently learning **.NET**
 
@@ -9,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/edwar-danilo-corredor-amaya-0a2435243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edwar-danilo-corredor-amaya-0a2435243/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/edwar-danilo-corredor-amaya-0a2435243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edwar-danilo-corredor-amaya-0a2435243/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
